@@ -41,6 +41,7 @@ Their interaction is built on several foundational elements:
 4. **Support for Long-Running Tasks**: Ideal for tasks that span hours or days, with built-in feedback loops and state updates.
 5. **Modality Agnostic**: Supports various content types, including text, audio, and video—essential for multimodal interactions.
 
+![A2A Demo App](/posts/Google-A2A/assets/a2a_demo_arch.png)
 
 ## 2. How A2A and MCP Compare and Work Together
 
@@ -74,6 +75,8 @@ These protocols are designed to work together:
 
 Together, A2A and MCP enable intelligent, dynamic, and tool-empowered collaboration between agents.
 
+![A2a and MCP](/posts/Google-A2A/assets/a2a_mcp.png)
+
 
 ## 3. Impact on Businesses and Developer Teams
 
@@ -104,5 +107,6 @@ If you’re building AI-powered products or developing next-gen applications, no
 ---
 
 ## Resources
-- [Google's A2A Announcement](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
+<!-- - [Google's A2A Announcement](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/) -->
+- <a href="https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/" target="_blank">Google's A2A Announcement</a>
 - [Google A2A Github](https://github.com/google/A2A)
