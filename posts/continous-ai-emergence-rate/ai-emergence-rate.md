@@ -7,7 +7,7 @@ Updated: 2025-06-07
 Author: Pisek
 </blockquote>
 
-![AI Emergence Rate](/posts/continous-ai-emergence-rate/assets/title.jpg)
+<img src="/posts/continous-ai-emergence-rate/assets/title.jpg" alt="AI Emergence Rate" style="max-width: 300px;">
 
 Lately, I've been reflecting on what truly distinguishes winning AI products. It's becoming clear that a brilliant initial algorithm is just the starting line; the real race is about dynamic, continuous evolution.
 
